@@ -1,0 +1,8 @@
+1. Create New Project:
+dotnet new console -n Achitect Arithmetic
+cd Achitect Arithmetic
+dotnet run
+
+2. Run the Project:
+..../Achitect Arithmetic> dotnet run
+
